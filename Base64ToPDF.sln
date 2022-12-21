@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64ToPDF", "Base64ToPDF.csproj", "{22CE48ED-B2BE-4479-B6E7-2AF19019C6C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CE48ED-B2BE-4479-B6E7-2AF19019C6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CE48ED-B2BE-4479-B6E7-2AF19019C6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CE48ED-B2BE-4479-B6E7-2AF19019C6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CE48ED-B2BE-4479-B6E7-2AF19019C6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCCD698-CCA1-496C-86D4-DBC80460F36F}
+	EndGlobalSection
+EndGlobal
